@@ -1,0 +1,9 @@
+# Output files
+**/media/
+**/__pycache__/
+
+**.pyproj
+
+# Visual Studio files and folder
+.vs/
+.vscode/

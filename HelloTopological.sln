@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HelloTopological", "HelloTopological\HelloTopological.pyproj", "{0571E92D-74EB-4E15-A0D6-1D0A09252042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0571E92D-74EB-4E15-A0D6-1D0A09252042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0571E92D-74EB-4E15-A0D6-1D0A09252042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E3F6CA-361B-4803-85DB-630EF5FFC2BB}
+	EndGlobalSection
+EndGlobal
